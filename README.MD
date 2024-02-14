@@ -26,7 +26,7 @@ PLaNi
 - some dependencies management files and others: poetry.lock, pyproject.toml  
 
 If you want to see some ways of extracting, consolidating, and enhancing data, check the files with this tag 🗄️.  
-In the other folders are the notebooks to generate the forecasting models by LGBM method.  
+
 I ran and created this project autonomously during my internship at Air Liquide.   
 
 All the greetings return to the All-Mighty. Thanks to them for welcoming and supporting me.  
