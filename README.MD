@@ -6,8 +6,11 @@ Each one is in a folder indicated by the corresponding tag.
 You can find the part you want in the architecture of the project which is as follows : 
 
 PLaNi
+
 -application (SA)
+
   -data
+
   -models
   -pages
     -1_🙋‍♂️_Présence.py
