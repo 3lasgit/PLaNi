@@ -4,9 +4,9 @@ Each one is in a folder indicated by the corresponding tag. You can find the par
 
 PLaNi  
 -application (SA)  
-  -data  
-  -models  
-  -pages  
+  - data  
+  - models  
+  - pages  
     -1_🙋‍♂️_Présence.py  
     -2_🧮_Recommandation.py  
     -3_📞📧_Résultat.py  
