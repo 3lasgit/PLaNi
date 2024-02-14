@@ -1,5 +1,5 @@
 ### Welcome 👋
-This is a streamlit application that automates sizing and Planning generation. The project lies on this formula: PLaNi = forecasting models (FC) + combinatorial optimization (CO) + streamlit app (SA) interface. \\
+This is a streamlit application that automates sizing and Planning generation. The project lies on this formula: PLaNi = forecasting models (FC) + combinatorial optimization (CO) + streamlit app (SA) interface. \n
 Each one is in a folder indicated by the corresponding tag. 
 You can find the part you want in the architecture of the project which is as follows : 
 
