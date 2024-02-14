@@ -1,21 +1,21 @@
 ### Welcome 👋
-This is a streamlit application that automates sizing and Planning generation. The project lies on this formula: PLaNi = forecasting models (FC) + combinatorial optimization (CO) + streamlit app (SA) interface.   
+This is a streamlit application that automates sizing and Planning generation. The project lies on this formula: \bf{PLaNi = forecasting models 📈 + combinatorial optimization 🧮 + streamlit app 🌐 interface}.   
 Each one is in a folder indicated by the corresponding tag. You can find the part you want in the architecture of the project which is as follows :  
 
 PLaNi  
-- application (SA)  
+- application  
   - data  
   - models  
-  - pages  
+  - pages 🌐  
     - 1_🙋‍♂️_Présence.py  
     - 2_🧮_Recommandation.py  
     - 3_📞📧_Résultat.py  
-  - main.py  
-  - tools.py (CO)  
-  - tools_new.py (CO)  
+  - main.py 🌐 
+  - tools.py 🧮  
+  - tools_new.py 🧮  
 - csv_data_builder  
   - cons_data.ipynb  
-- models_builders (FC)  
+- models_builders 📈  
   - gives.py  
   - lgbm_reg_D_mail_invoicing.pkl  
   - mail_contact_D_lgbm.ipynb  
