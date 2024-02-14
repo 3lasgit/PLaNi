@@ -15,16 +15,17 @@ PLaNi
   - tools.py 🧮  
   - tools_new.py 🧮  
 - csv_data_builder  
-  - cons_data.ipynb  
+  - cons_data.ipynb 🗄️  
 - models_builders 📈  
-  - gives.py  
+  - gives.py 🗄️  
   - lgbm_reg_D_mail_invoicing.pkl  
-  - mail_contact_D_lgbm.ipynb  
-  - mail_invoicing_D_lgbm.ipynb  
-  - volume_lgbmC_H.ipynb  
-  - volume_lgbm_H_avec_feat_H.ipynb  
+  - mail_contact_D_lgbm.ipynb 📈  
+  - mail_invoicing_D_lgbm.ipynb 📈  
+  - volume_lgbmC_H.ipynb 📈  
+  - volume_lgbm_H_avec_feat_H.ipynb 📈  
 - some dependencies management files and others: poetry.lock, pyproject.toml  
 
+If you want to see some ways of extracting, consolidating, and enhancing data, check the files with this tag 🗄️.  
 In the other folders are the notebooks to generate the forecasting models by LGBM method.  
 I ran and created this project autonomously during my internship at Air Liquide.   
 
